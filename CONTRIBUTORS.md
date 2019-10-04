@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Aakash Goel](https://github.com/goelaakash79)
+- Place: New Delhi,INDIA
+- Bio: UI Designer | Developer
+- GitHub: [Aakash Goel](https://github.com/goelaakash79)
